@@ -1,0 +1,4 @@
+.env
+venv
+weights/*
+weights_roberta/
